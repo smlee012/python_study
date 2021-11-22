@@ -173,4 +173,3 @@ if __name__ == '__main__':
     assert max_digit(634) == 6
     assert max_digit(1) == 1
     assert max_digit(10000) == 1
-    ```
